@@ -27,3 +27,14 @@ bash
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+Usage
+View Reviews: The app will load a review and display the reviewer's name, image, and feedback.
+Next/Previous Review: Use the "Next" and "Previous" buttons to navigate through different reviews.
+Random Review: Click the "Surprise Me" button to display a random review.
+Example
+On the homepage, the app will display a review with:
+Reviewer’s name and image
+Feedback
+Navigation buttons for moving to the next or previous review.
+You can click the Surprise Me button to load a random review.
